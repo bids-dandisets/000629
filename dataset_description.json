@@ -1,23 +1,4 @@
 {
-    "Name": "Gillespie et al (2024) Neurofeedback training can modulate task-relevant memory replay rate in rats",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0",
-    "Description": "This dataset includes the electrophysiological (dorsal CA1 tetrodes) and behavioral (port triggers, reward delivery, and position tracking) data from the 4 subjects in the neurofeedback cohort described in Gillespie et al, eLife 2024: \"Neurofeedback training can modulate task-relevant memory replay rate in rats\". The data for the 4 control cohort subjects can be found in Dandiset 000115 (https://dandiarchive.org/dandiset/000115). For more information about this data, please contact Anna Gillespie.",
-    "DatasetType": "raw",
-    "Authors": [
-        "Gillespie, Anna",
-        "Astudillo Maya, Daniela",
-        "Denovellis, Eric",
-        "Desse, Sachi",
-        "Frank, Loren"
-    ],
-    "License": "CC-BY-4.0",
-    "GeneratedBy": [
-        {
-            "Name": "nwb2bids",
-            "Version": "0.9.1.dev27+gf0fb7253c",
-            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
-            "CodeURL": "https://github.com/con/nwb2bids"
-        }
-    ]
+    "HEDVersion": "8.3.0"
 }
